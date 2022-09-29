@@ -2,6 +2,7 @@
 Author: Alysa Liann Vega
 Course: CSCI-136
 Instructor: Tong Yi
+Date: February 2, 2022
 Assignment: Lab 1B
 
 This program finds the smallest of three user-inputted integers.
