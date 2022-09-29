@@ -2,6 +2,7 @@
 Author: Alysa Liann Vega
 Course: CSCI-136
 Instructor: Tong Yi
+Date: February 2, 2022
 Assignment: Lab 1C
 
 This program prints whether the inputted year is/was a leap year or not.
