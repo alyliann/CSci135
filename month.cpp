@@ -2,6 +2,7 @@
 Author: Alysa Liann Vega
 Course: CSCI-136
 Instructor: Tong Yi
+Date: February 2, 2022
 Assignment: Lab 1D
 
 Take user-inputted month and output number of days in month.
